@@ -16,10 +16,11 @@ GhostVault is a high-performance Windows desktop application designed for near-i
 
 ### 📸 Visual Comparison (Ghost Mode)
 
-| Before Locking (Original) | After Locking (Ghost Mode) |
-| :---: | :---: |
-| ![before](https://github.com/user-attachments/assets/a86f6302-e7c3-4883-849a-83a6b6c9b959)
- | ![after](https://github.com/user-attachments/assets/58492418-93d6-4d28-8563-f2a3f5909ec9) |
+| Before Locking (Original) |
+| :---: | 
+| ![before](https://github.com/user-attachments/assets/a86f6302-e7c3-4883-849a-83a6b6c9b959) |
+| After Locking (Encrypted) |
+| ![after](https://github.com/user-attachments/assets/58492418-93d6-4d28-8563-f2a3f5909ec9) |
 
 ## 🚀 Getting Started
 
