@@ -14,6 +14,13 @@ GhostVault is a high-performance Windows desktop application designed for near-i
 *   **🚨 Emergency Lock:** Closing the application or "Deactivating" immediately re-secures all cleartext files.
 *   **📂 Persistent State:** Automatically detects existing vaults and requires password verification before granting access.
 
+### 📸 Visual Comparison (Ghost Mode)
+
+| Before Locking (Original) | After Locking (Ghost Mode) |
+| :---: | :---: |
+| ![before](https://github.com/user-attachments/assets/a86f6302-e7c3-4883-849a-83a6b6c9b959)
+ | ![after](https://github.com/user-attachments/assets/58492418-93d6-4d28-8563-f2a3f5909ec9) |
+
 ## 🚀 Getting Started
 
 ### Option 1: Using the Compiled Executable (Recommended)
