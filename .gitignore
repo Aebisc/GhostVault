@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+env/
+
+# PyInstaller & Build Artifacts
+build/
+dist/
+*.spec
+
+# Vault Meta & Sensitive Data
+.vault_meta
+.vault_meta.bak
+*.vault
+
+# Project Management Logs (Private)
+Summary.md
+GEMINI.md
+
+# IDEs
+.vscode/
+.idea/
